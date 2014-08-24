@@ -34,8 +34,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="980.958" y="235.721" z="881.598"/>
-		<Rotation angle="0.755921"/>
+		<Position x="1381.97" y="235.656" z="187.24"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -94,7 +94,7 @@
         "stone": 300,
         "wood": 300
       },
-      "Team": 0
+      "Team": 1
     },
     {
       "AI": "aegis",
@@ -112,7 +112,7 @@
         "stone": 300,
         "wood": 300
       },
-      "Team": 0
+      "Team": 1
     }
   ],
   "Preview": "",
